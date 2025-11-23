@@ -25,13 +25,13 @@
 
 ## Steps
 
-* **Step1***
+* **Step 1**
   Open your terminal and paste this
   ```bash
   git clone https://github.com/profz/VITyarthi-project-link-to-music
   ```
 
-* **Step2**
+* **Step 2**
   this will save this project in your pc locally
 
   next run
@@ -41,7 +41,7 @@
   ```
   make sure to have python install and pip active
 
-* **Step3**
+* **Step 3**
 
   ```bash
   python downloader.py
