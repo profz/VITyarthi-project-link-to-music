@@ -11,7 +11,7 @@
     
   </h3>
   <h3>
-    Never worry about searching for a website either as it is built it, just clone and use, no waiting for ads for waitlists and ligtning fast as well !!!
+    Never worry about searching for a website to download audios to wish to listen offline, no waiting for ads or for waitlists and the downloads are ligtning fast as well !!!
   </h3>
 </html>
 
