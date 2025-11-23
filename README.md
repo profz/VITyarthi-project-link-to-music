@@ -16,14 +16,14 @@
 </html>
 
 
-##Tips to keep in mind
+## Tips to keep in mind
 
 * This python file can be stored anywhere and please follow the **instructions** carefully and install the **requirements** as well
 * **Extremely lightweight and low footprint** as well
 * **Works on all platform **Windows**, **linux** and yes **Mac !!** users too
 * **All you need to have is the **lastest version python install** and a **stable internet**
 
-##Steps
+## Steps
 
 * **Step1***
   Open your terminal and paste this
