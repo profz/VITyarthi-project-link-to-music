@@ -20,8 +20,8 @@
 
 * This python file can be stored anywhere and please follow the **instructions** carefully and install the **requirements** as well
 * **Extremely lightweight and low footprint** as well
-* **Works on all platform **Windows**, **linux** and yes **Mac !!** users too
-* **All you need to have is the **lastest version python install** and a **stable internet**
+* Works on all platform **Windows**, **linux** and yes **Mac !!** too
+* All you need to have is the **lastest version python install** and a **stable internet**
 
 ## Steps
 
