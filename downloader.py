@@ -64,13 +64,14 @@ def main():
 
     if len(sys.argv) < 2:
         print("YouTube Audio Converter")
-        print("\nUsage:")
-        print("  python main.py <youtube_url> [format]")
-        print("\nExamples:")
-        print("  python main.py https://youtube.com/watch?v=... mp3")
-        print("  python main.py https://youtu.be/... wav")
+        print("\n Usage:")
+        print("python downloader.py <youtube_url> [format]")
+        print("\n These are the Examples:")
+        print("python downloader.py https://youtube.com/watch?v=... mp3")
+        print("python downloader.py https://youtu.be/... wav")
         print("\n Please Use The Supported formats: mp3, wav, aac, flac, ogg, m4a")
         print("Default format: mp3")
+        print("If any doubts please contact https://github.com/profz.com ")
         sys.exit(1)
 
     url = sys.argv[1]
