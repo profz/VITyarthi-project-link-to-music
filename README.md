@@ -23,6 +23,44 @@
 * Works on all platform **Windows**, **linux** and yes **Mac !!** too
 * All you need to have is the **lastest version python install** and a **stable internet**
 
+* make sure to install **ffmpeg**, respective to your platform
+
+## Windows 
+
+* Use the following official website [ffmpeg](https://ffmpeg.org/)
+
+unzip the file and continue
+
+
+## Mac
+* can be downloaded directly from the website or using the terminal
+
+* ```bash
+  brew install ffmpeg
+  ```
+
+## Linux
+
+* Use your package manager to install it example
+
+* # Debian
+  ```bash
+  sudo apt install ffmpeg
+  ```
+
+  # Arch
+
+  ```bash
+  sudo pacman -S ffmpeg
+  ```
+
+  or using **AUR**
+
+  ```bash
+  yay -S ffmpeg
+  ```
+  
+
 ## Steps
 
 * **Step 1**
